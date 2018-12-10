@@ -4,9 +4,18 @@ Prérequis pour chaque étudiant :
 * Git installé
 * Compte GitHub créé
 
+
+## Configuration
+
+Lorsque vous lancez Android Studio pour la première fois, voici la fenêtre que vous obtenez :
+
 <p align="center">
-<img src="/images/image_1.png" alt="drawing" width="400"/>
+<img src="/images/image_1.png" alt="drawing" width="600"/>
 </p>
 
+Assurons nous tout d'abord qu'un SDK est bien installé : menu Configure->SDK Manager
 
-<img align="center" width="100" height="100" src="/images/image_1.png">
+Configurons ensuite notre compte GitHub en sélectionnant le menu Configure->Preferences, puis en sélectionnant l'élément **GitHub** de **Version Control** dans la liste de gauche :
+<p align="center">
+<img src="/images/image_2.png" alt="drawing" width="600"/>
+</p>
