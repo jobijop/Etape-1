@@ -4,4 +4,4 @@ Prérequis pour chaque étudiant :
 * Git installé
 * Compte GitHub créé
 
-![GitHub Logo](/images/image_1.png)
+![GitHub Logo](/images/image_1.png =100x)
